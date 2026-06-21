@@ -12,3 +12,5 @@
   Changepoints with a Linear Computational Cost.* JASA, 107(500).
 - Aminikhanghahi, S. & Cook, D. J. (2017). *A Survey of Methods for Time
   Series Change Point Detection.* Knowledge and Information Systems, 51(2).
+- Engle, R. F. (1982). Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation. Econometrica, 50(4).
+
